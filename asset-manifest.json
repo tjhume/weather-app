@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tjhume/weather-app/static/css/main.9aa237e1.chunk.css",
+    "main.js": "/tjhume/weather-app/static/js/main.39e874d8.chunk.js",
+    "main.js.map": "/tjhume/weather-app/static/js/main.39e874d8.chunk.js.map",
+    "runtime~main.js": "/tjhume/weather-app/static/js/runtime~main.8e96922e.js",
+    "runtime~main.js.map": "/tjhume/weather-app/static/js/runtime~main.8e96922e.js.map",
+    "static/js/2.5a7af95d.chunk.js": "/tjhume/weather-app/static/js/2.5a7af95d.chunk.js",
+    "static/js/2.5a7af95d.chunk.js.map": "/tjhume/weather-app/static/js/2.5a7af95d.chunk.js.map",
+    "index.html": "/tjhume/weather-app/index.html",
+    "precache-manifest.86d033228be7264f9e5cd8d42f5fca96.js": "/tjhume/weather-app/precache-manifest.86d033228be7264f9e5cd8d42f5fca96.js",
+    "service-worker.js": "/tjhume/weather-app/service-worker.js",
+    "static/css/main.9aa237e1.chunk.css.map": "/tjhume/weather-app/static/css/main.9aa237e1.chunk.css.map",
+    "static/media/custom.css": "/tjhume/weather-app/static/media/bg.9f19053c.png"
+  }
+}
